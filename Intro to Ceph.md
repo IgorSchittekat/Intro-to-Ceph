@@ -3,7 +3,7 @@
 Before installation, make sure Docker is installed. You don't need to set up docker or create any containers yourself. Ceph will manage this for you. 
 Also make sure lvm2 is installed ```sudo apt install -y lvm2```. 
 
-##Cephadm
+## Cephadm
 
 The installation process of ceph using cephadm can be found [here](https://docs.ceph.com/en/quincy/cephadm/install/#install-cephadm).
 Remark: This is the link for the version quincy. The documentation of the newest version is always accessible via [docs.ceph.com](https://docs.ceph.com/)
